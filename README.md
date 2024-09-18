@@ -1,0 +1,2 @@
+# xdict
+Englist dictionary
